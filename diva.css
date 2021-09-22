@@ -1,0 +1,120 @@
+
+@media (max-width:1028px)
+{
+    #home
+    {
+        text-align: center;
+    }
+   
+}
+
+
+.icon
+{
+    font-family: "ubuntu";
+    font-weight: bold;
+    font-size: 4rem;
+}
+.navigationbar
+{
+    margin-left: 150px;
+    padding-top: 100px;
+    
+}
+.fixed{
+    position: fixed;
+}
+
+.bgpic1{
+    background-image:url("bgpic1.jpg") ;
+    background-repeat:no-repeat ;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+
+.ptext{
+  
+    margin-top: 200px;
+    margin-left: 650px;
+    font-size: 100px;
+    color: #BF1363;
+
+}
+
+.navbar-brand {
+    color: purple;
+}
+.secTitle{
+    color: #D62AD0;
+    font-style: italic;
+    font-size: 60px;
+}
+
+.carousel-text{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    
+}
+.one{
+color: black;
+}
+
+
+
+
+.bgcolor1{
+    background-color: #CDC9C3;
+}
+
+.bgcolor2{
+    background-color: rgba(33,1,13,255);  
+}
+.bgcolor3{
+    background-color:rgba(13,13,17,255)
+    ;
+
+}
+.servicesHeading
+{
+text-align: center;
+padding-bottom: 3%;
+color:purple;
+
+}
+
+.subheading{
+    color: purple;
+}
+#Services{
+    padding: 4% 5%;
+}
+
+
+footer{
+    padding: 3% 3% ;
+    text-align:center;
+    background-color:#0A1931 ;
+    color: white;
+    }
+
+.social-icon
+{
+margin: 20px 10px;
+}
+
+.list-item{
+    font-size: 20px;
+    color: white;
+}
+.makeoverStmt{
+    font-size: 20px;
+    font-style: italic;
+}
+
+
+
+
+
+
